@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gfgfg
+=======
+vivo
+>>>>>>> origin/master
